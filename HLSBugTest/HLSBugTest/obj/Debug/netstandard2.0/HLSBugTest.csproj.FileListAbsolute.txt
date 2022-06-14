@@ -1,0 +1,14 @@
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/bin/Debug/netstandard2.0/HLSBugTest.deps.json
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/bin/Debug/netstandard2.0/HLSBugTest.dll
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/bin/Debug/netstandard2.0/HLSBugTest.pdb
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.csproj.AssemblyReference.cache
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/WebViewPage.xaml.g.cs
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.AssemblyInfoInputs.cache
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.AssemblyInfo.cs
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.csproj.CoreCompileInputs.cache
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.dll
+/Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/obj/Debug/netstandard2.0/HLSBugTest.pdb

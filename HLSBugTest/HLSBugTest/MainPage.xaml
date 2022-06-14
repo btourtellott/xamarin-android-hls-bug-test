@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HLSBugTest"
+             x:Class="HLSBugTest.MainPage">
+
+    <StackLayout>
+        <!-- ~1~ Place new controls here @1@ -->
+        <!-- <Entry x:Name="Username" Placeholder="Username" /> -->
+        <!-- <Entry x:Name="Password" Placeholder="Password" IsPassword="true" /> -->
+        <Button Clicked="Button_OnClicked" Text="GO"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+</ContentPage>

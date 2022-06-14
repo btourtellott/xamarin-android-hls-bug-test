@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HLSBugTest
+build_property.ProjectDir = /Users/btourtellott/Documents/workspace/xam-android-http-live-stream-bug/HLSBugTest/HLSBugTest/
